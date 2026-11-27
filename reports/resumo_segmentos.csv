@@ -1,0 +1,6 @@
+ordem_prioridade,segmento_rfm,qtd_clientes,participacao_clientes_pct,faturamento_total_decimal,participacao_faturamento_pct,pedidos_totais,unidades_totais,ticket_medio_segmento,valor_monetario_medio_cliente,valor_monetario_mediano_cliente,frequencia_media,frequencia_mediana,recencia_media_dias,recencia_mediana_dias
+0,Alto valor e recorrentes,840,19.36,5954738.260,67.0,10548,3400266,564.54,7088.97,3342.01,12.56,9.0,20.44,13.0
+1,Recorrentes recentes,1403,32.34,1642178.582,18.48,4650,975289,353.16,1170.48,835.78,3.31,3.0,33.19,27.0
+2,Compra única recente,646,14.89,257749.761,2.9,646,165092,398.99,398.99,290.22,1.0,1.0,45.96,46.0
+3,Recorrentes há mais tempo sem compras,602,13.88,676302.491,7.61,1841,372903,367.36,1123.43,673.2,3.06,2.0,174.78,162.0
+4,Compra única há mais tempo sem compras,847,19.53,356239.800,4.01,847,238452,420.59,420.59,235.56,1.0,1.0,242.09,247.0

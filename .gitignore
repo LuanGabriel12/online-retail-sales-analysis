@@ -1,5 +1,6 @@
 __pycache__/
 *.py[cod]
+.pytest_cache/
 .ipynb_checkpoints/
 .venv/
 venv/
@@ -7,3 +8,13 @@ env/
 .env
 .DS_Store
 Thumbs.db
+
+# Grandes arquivos CSV derivados reproduzíveis via `python main.py`
+# (amostras verificadas permanecem versionadas em reports/samples/)
+reports/resumo_clientes.csv
+reports/segmentacao_rfm.csv
+reports/ranking_produtos.csv
+reports/ranking_clientes.csv
+
+# Pacote ZIP de entrega final
+online-retail-customer-analytics-v2-review.zip

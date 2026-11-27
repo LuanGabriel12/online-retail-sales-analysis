@@ -1,0 +1,51 @@
+ranking_faturamento,customer_id,pais_principal,paises_distintos,segmento_rfm,pedidos_distintos,quantidade_unidades,faturamento_acumulado_decimal,ticket_medio,recencia_dias,participacao_receita_identificada_pct,participacao_receita_total_pct,participacao_acumulada_identificada_pct
+1,14646,Netherlands,1,Alto valor e recorrentes,73,196915,280206.020,3838.44,2,3.1529,2.6357,3.1529
+2,18102,United Kingdom,1,Alto valor e recorrentes,60,64124,259657.300,4327.62,1,2.9217,2.4424,6.0746
+3,17450,United Kingdom,1,Alto valor e recorrentes,46,69973,194390.790,4225.89,9,2.1873,1.8285,8.2619
+4,16446,United Kingdom,1,Recorrentes recentes,2,80997,168472.500,84236.25,1,1.8957,1.5847,10.1576
+5,14911,EIRE,1,Alto valor e recorrentes,201,80240,143711.170,714.98,2,1.6171,1.3518,11.7747
+6,12415,Australia,1,Alto valor e recorrentes,21,77374,124914.530,5948.31,25,1.4056,1.175,13.1802
+7,14156,EIRE,1,Alto valor e recorrentes,55,57768,117210.080,2131.09,10,1.3189,1.1025,14.4991
+8,17511,United Kingdom,1,Alto valor e recorrentes,31,64549,91062.380,2937.5,3,1.0246,0.8566,15.5237
+9,16029,United Kingdom,1,Alto valor e recorrentes,63,40108,80850.840,1283.35,39,0.9097,0.7605,16.4335
+10,12346,United Kingdom,1,Compra única há mais tempo sem compras,1,74215,77183.600,77183.6,326,0.8685,0.726,17.3019
+11,16684,United Kingdom,1,Alto valor e recorrentes,28,50255,66653.560,2380.48,5,0.75,0.627,18.0519
+12,14096,United Kingdom,1,Alto valor e recorrentes,17,16352,65164.790,3833.22,5,0.7332,0.613,18.7852
+13,13694,United Kingdom,1,Alto valor e recorrentes,50,63312,65039.620,1300.79,4,0.7318,0.6118,19.517
+14,15311,United Kingdom,1,Alto valor e recorrentes,91,38147,60632.750,666.29,1,0.6822,0.5703,20.1993
+15,13089,United Kingdom,1,Alto valor e recorrentes,97,31025,58762.080,605.79,3,0.6612,0.5527,20.8605
+16,17949,United Kingdom,1,Alto valor e recorrentes,45,30546,58510.480,1300.23,2,0.6584,0.5504,21.5188
+17,15769,United Kingdom,1,Alto valor e recorrentes,26,29672,56252.720,2163.57,8,0.633,0.5291,22.1518
+18,15061,United Kingdom,1,Alto valor e recorrentes,48,28920,54534.140,1136.13,4,0.6136,0.513,22.7654
+19,14298,United Kingdom,1,Alto valor e recorrentes,44,58343,51527.300,1171.08,9,0.5798,0.4847,23.3452
+20,14088,United Kingdom,1,Alto valor e recorrentes,13,12665,50491.810,3883.99,11,0.5681,0.4749,23.9133
+21,15749,United Kingdom,1,Recorrentes há mais tempo sem compras,3,18028,44534.300,14844.77,236,0.5011,0.4189,24.4144
+22,12931,United Kingdom,1,Alto valor e recorrentes,15,28004,42055.960,2803.73,22,0.4732,0.3956,24.8877
+23,17841,United Kingdom,1,Alto valor e recorrentes,124,22834,40519.840,326.77,2,0.4559,0.3811,25.3436
+24,15098,United Kingdom,1,Recorrentes há mais tempo sem compras,3,121,39916.500,13305.5,183,0.4491,0.3755,25.7927
+25,13798,United Kingdom,1,Alto valor e recorrentes,57,23948,37153.850,651.82,2,0.4181,0.3495,26.2108
+26,16013,United Kingdom,1,Alto valor e recorrentes,47,15536,37130.600,790.01,4,0.4178,0.3493,26.6286
+27,16422,United Kingdom,1,Alto valor e recorrentes,51,33704,34684.400,680.09,18,0.3903,0.3263,27.0189
+28,15838,United Kingdom,1,Alto valor e recorrentes,19,18368,33643.080,1770.69,12,0.3786,0.3165,27.3974
+29,12748,United Kingdom,1,Alto valor e recorrentes,209,25287,33053.190,158.15,1,0.3719,0.3109,27.7694
+30,17404,Sweden,1,Alto valor e recorrentes,15,32748,31906.820,2127.12,5,0.359,0.3001,28.1284
+31,17389,United Kingdom,1,Alto valor e recorrentes,34,7612,31833.680,936.28,1,0.3582,0.2994,28.4866
+32,13098,United Kingdom,1,Alto valor e recorrentes,28,15968,28882.440,1031.52,2,0.325,0.2717,28.8116
+33,14680,United Kingdom,1,Alto valor e recorrentes,16,13476,28754.110,1797.13,26,0.3235,0.2705,29.1351
+34,13081,United Kingdom,1,Alto valor e recorrentes,11,19068,28337.380,2576.13,12,0.3189,0.2666,29.454
+35,13408,United Kingdom,1,Alto valor e recorrentes,62,16232,28117.040,453.5,2,0.3164,0.2645,29.7703
+36,17857,United Kingdom,1,Alto valor e recorrentes,23,19256,26879.040,1168.65,5,0.3024,0.2528,30.0728
+37,16333,United Kingdom,1,Alto valor e recorrentes,22,32184,26626.800,1210.31,8,0.2996,0.2505,30.3724
+38,13777,United Kingdom,1,Alto valor e recorrentes,33,12897,25977.160,787.19,1,0.2923,0.2444,30.6647
+39,12753,Japan,1,Alto valor e recorrentes,6,11421,21429.390,3571.56,23,0.2411,0.2016,30.9058
+40,12744,Singapore,1,Alto valor e recorrentes,7,5241,21279.290,3039.9,52,0.2394,0.2002,31.1452
+41,16210,United Kingdom,1,Alto valor e recorrentes,18,7559,21086.300,1171.46,2,0.2373,0.1983,31.3825
+42,17675,United Kingdom,1,Alto valor e recorrentes,31,8360,20374.280,657.23,2,0.2293,0.1916,31.6118
+43,17381,United Kingdom,1,Alto valor e recorrentes,29,25649,20275.610,699.16,9,0.2281,0.1907,31.8399
+44,12471,Germany,1,Alto valor e recorrentes,30,8200,19788.650,659.62,3,0.2227,0.1861,32.0626
+45,15039,United Kingdom,1,Alto valor e recorrentes,47,9131,19766.590,420.57,10,0.2224,0.1859,32.285
+46,12731,France,1,Alto valor e recorrentes,12,8437,18895.910,1574.66,24,0.2126,0.1777,32.4976
+47,15159,United Kingdom,1,Alto valor e recorrentes,30,11441,18641.010,621.37,2,0.2098,0.1753,32.7074
+48,12901,United Kingdom,1,Alto valor e recorrentes,28,23075,17654.540,630.52,9,0.1987,0.1661,32.906
+49,12678,France,1,Alto valor e recorrentes,12,10923,17628.460,1469.04,43,0.1984,0.1658,33.1044
+50,14031,United Kingdom,1,Alto valor e recorrentes,19,5788,17286.860,909.83,8,0.1945,0.1626,33.2989
