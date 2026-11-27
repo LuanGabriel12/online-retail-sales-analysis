@@ -1,0 +1,27 @@
+indicador,valor,unidade,observacao
+faturamento_vendas_positivas_v2_gbp,10631048.744,GBP,Base principal V2 (vendas positivas padrão sem ajustes A e sem duplicatas exatas)
+faturamento_vendas_positivas_v1_gbp,10642110.804,GBP,Reprodução da regra V1 (Quantity > 0 e UnitPrice > 0 sem duplicatas exatas)
+pedidos_validos_v2,19959,pedidos,Quantidade de InvoiceNo distintos na base V2
+pedidos_validos_v1,19960,pedidos,Quantidade de InvoiceNo distintos na reprodução V1
+ticket_medio_geral_v2_gbp,532.64,GBP,Faturamento total V2 / pedidos distintos V2
+ticket_medio_geral_v1_gbp,533.17,GBP,Faturamento total V1 / pedidos distintos V1
+unidades_vendidas_v2,5572419,unidades,Soma de Quantity nas transações válidas V2
+linhas_transacao_v2,524877,linhas,Granularidade transacional após triagem e deduplicação
+clientes_identificados_v2,4338,clientes,Clientes com CustomerID preenchido na base V2
+faturamento_clientes_identificados_gbp,8887208.894,GBP,Receita atribuível a clientes identificados
+faturamento_sem_identificacao_gbp,1743839.850,GBP,Receita válida sem CustomerID (mantida nas visões gerais)
+participacao_faturamento_sem_cliente_pct,16.40,%,Percentual da receita V2 sem CustomerID
+taxa_recorrencia_observada_pct,65.58,%,Clientes com 2 ou mais pedidos distintos no período
+clientes_compra_unica,1493,clientes,Clientes identificados com exatamente 1 pedido
+clientes_recorrentes,2845,clientes,Clientes identificados com 2 ou mais pedidos
+concentracao_top10_clientes_identificados_pct,17.30,%,Participação dos 10 maiores clientes sobre a receita identificada
+concentracao_top50_clientes_identificados_pct,33.30,%,Participação dos 50 maiores clientes sobre a receita identificada
+recencia_media_dias,93.06,dias,Média de dias até data de referência RFM (2011-12-10)
+recencia_mediana_dias,51.00,dias,Mediana de dias até data de referência RFM (2011-12-10)
+frequencia_media_pedidos,4.27,pedidos,Média de pedidos distintos por cliente identificado
+valor_monetario_medio_cliente_gbp,2048.69,GBP,Média acumulada por cliente identificado
+valor_monetario_mediano_cliente_gbp,668.57,GBP,Mediana acumulada por cliente (evidencia assimetria)
+notas_cancelamento_distintas,3836,notas,InvoiceNo distintos iniciados pela letra C
+valor_cancelamentos_deduplicados_gbp,-893979.730,GBP,Valor monetário das notas de cancelamento sem duplicatas exatas
+participacao_cancelamentos_sobre_vendas_v2_pct,8.41,%,abs(cancelamentos deduplicados) / vendas positivas V2
+saldo_monetario_observado_dedup_gbp,9737069.014,GBP,Vendas positivas V2 + cancelamentos deduplicados (não é receita líquida contábil)

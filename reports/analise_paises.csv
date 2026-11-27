@@ -1,0 +1,39 @@
+country,pedidos_distintos,clientes_identificados,clientes_recorrentes_no_pais,taxa_recorrencia_pais_pct,recorrencia_interpretavel,unidades_vendidas,faturamento_total_decimal,participacao_faturamento_pct,ticket_medio,classificacao_amostra,alerta_ticket_elevado_baixa_amostra
+United Kingdom,18018,3920,2570,65.56,True,4646905,8990682.034,84.57,498.98,Amostra robusta (>= 50 pedidos),False
+Netherlands,94,9,5,55.56,False,200361,285446.340,2.685,3036.66,Amostra robusta (>= 50 pedidos),False
+EIRE,288,3,3,100.0,False,147007,283140.520,2.6633,983.13,Amostra robusta (>= 50 pedidos),False
+Germany,457,94,68,72.34,True,119154,228678.400,2.151,500.39,Amostra robusta (>= 50 pedidos),False
+France,392,87,59,67.82,True,112060,209625.370,1.9718,534.76,Amostra robusta (>= 50 pedidos),False
+Australia,57,9,9,100.0,False,83891,138453.810,1.3024,2429.01,Amostra robusta (>= 50 pedidos),False
+Spain,90,30,19,63.33,True,27933,61558.560,0.579,683.98,Amostra robusta (>= 50 pedidos),False
+Switzerland,54,21,15,71.43,True,30617,57067.600,0.5368,1056.81,Amostra robusta (>= 50 pedidos),False
+Belgium,98,25,18,72.0,True,23237,41196.340,0.3875,420.37,Amostra robusta (>= 50 pedidos),False
+Sweden,36,8,4,50.0,False,36078,38367.830,0.3609,1065.77,Amostra moderada (10 a 49 pedidos),False
+Japan,19,8,5,62.5,False,26016,37416.370,0.352,1969.28,Amostra moderada (10 a 49 pedidos),False
+Norway,36,10,6,60.0,True,19336,36165.440,0.3402,1004.6,Amostra moderada (10 a 49 pedidos),False
+Portugal,58,19,12,63.16,True,16231,33683.050,0.3168,580.74,Amostra robusta (>= 50 pedidos),False
+Finland,41,12,7,58.33,True,10704,22546.080,0.2121,549.9,Amostra moderada (10 a 49 pedidos),False
+Singapore,7,1,1,100.0,False,5241,21279.290,0.2002,3039.9,Amostra muito baixa (< 10 pedidos),True
+Channel Islands,26,9,6,66.67,False,9485,20440.540,0.1923,786.17,Amostra moderada (10 a 49 pedidos),False
+Denmark,18,9,6,66.67,False,8235,18955.340,0.1783,1053.07,Amostra moderada (10 a 49 pedidos),False
+Italy,38,14,6,42.86,True,8112,17483.240,0.1645,460.09,Amostra moderada (10 a 49 pedidos),False
+Hong Kong,11,0,0,,False,4713,15483.000,0.1456,1407.55,Amostra moderada (10 a 49 pedidos),False
+Cyprus,16,8,5,62.5,False,6340,13502.850,0.127,843.93,Amostra moderada (10 a 49 pedidos),False
+Austria,17,11,4,36.36,True,4881,10198.680,0.0959,599.92,Amostra moderada (10 a 49 pedidos),False
+Israel,8,3,2,66.67,False,4406,8129.410,0.0765,1016.18,Amostra muito baixa (< 10 pedidos),True
+Poland,19,6,4,66.67,False,3684,7334.650,0.069,386.03,Amostra moderada (10 a 49 pedidos),False
+Greece,5,4,1,25.0,False,1557,4760.520,0.0448,952.1,Amostra muito baixa (< 10 pedidos),True
+Unspecified,13,4,4,100.0,False,3295,4740.940,0.0446,364.69,Amostra moderada (10 a 49 pedidos),False
+Iceland,7,1,1,100.0,False,2458,4310.000,0.0405,615.71,Amostra muito baixa (< 10 pedidos),True
+Canada,6,4,1,25.0,False,2763,3666.380,0.0345,611.06,Amostra muito baixa (< 10 pedidos),True
+USA,5,4,1,25.0,False,2458,3580.390,0.0337,716.08,Amostra muito baixa (< 10 pedidos),True
+Malta,5,2,1,50.0,False,970,2725.590,0.0256,545.12,Amostra muito baixa (< 10 pedidos),True
+United Arab Emirates,3,2,1,50.0,False,982,1902.280,0.0179,634.09,Amostra muito baixa (< 10 pedidos),True
+Lebanon,1,1,0,0.0,False,386,1693.880,0.0159,1693.88,Amostra muito baixa (< 10 pedidos),True
+Lithuania,4,1,1,100.0,False,652,1661.060,0.0156,415.26,Amostra muito baixa (< 10 pedidos),False
+European Community,4,1,1,100.0,False,499,1300.250,0.0122,325.06,Amostra muito baixa (< 10 pedidos),False
+Brazil,1,1,0,0.0,False,356,1143.600,0.0108,1143.6,Amostra muito baixa (< 10 pedidos),True
+RSA,1,1,0,0.0,False,351,1002.310,0.0094,1002.31,Amostra muito baixa (< 10 pedidos),True
+Czech Republic,2,1,1,100.0,False,671,826.740,0.0078,413.37,Amostra muito baixa (< 10 pedidos),False
+Bahrain,3,2,0,0.0,False,314,754.140,0.0071,251.38,Amostra muito baixa (< 10 pedidos),False
+Saudi Arabia,1,1,0,0.0,False,80,145.920,0.0014,145.92,Amostra muito baixa (< 10 pedidos),False
